@@ -1,5 +1,6 @@
 content_assist_completion_replacement_background=200,200,0
 content_assist_completion_replacement_foreground=200,0,0
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="boardgame.Position"><rhs name\="boardgame.Position"/></lhs><lhs name\="boardgame.Board"><rhs name\="boardgame.Board"/></lhs><lhs name\="boardgame.Piece"><rhs name\="chess.ChessPiece"/><rhs name\="chess.pieces.Rook"/></lhs><lhs name\="chess.ChessPiece"><rhs name\="chess.ChessPiece"/></lhs><lhs name\="chess.ChessMatch"><rhs name\="chess.ChessMatch"/></lhs><lhs name\="chess.ChessPosition"><rhs name\="chess.ChessPosition"/></lhs><lhs name\="java.lang.Enum"><rhs name\="chess.Color"/></lhs><lhs name\="chess.Color"><rhs name\="chess.Color"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.ArrayList"/></lhs></history>
 content_assist_number_of_computers=13
 content_assist_parameters_background=52,57,61
 content_assist_parameters_foreground=238,238,238
